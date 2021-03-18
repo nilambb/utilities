@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: camel-data-mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nbban
+Implementation-Vendor-Id: com.test
+Build-Jdk: 1.8.0_222
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/camel-data-mysql
+Created-By: Maven Integration for Eclipse
+

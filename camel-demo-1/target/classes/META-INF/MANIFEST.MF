@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: camel-demo-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nbban
+Implementation-Vendor-Id: com.nilam.apache.camel
+Build-Jdk: 1.8.0_222
+Implementation-URL: http://projects.spring.io/spring-boot/camel-demo-1
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

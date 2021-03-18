@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: camel-rest-sql-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nbban
+Implementation-Vendor-Id: com.camel.rest.sql.demo
+Build-Jdk: 1.8.0_222
+Implementation-URL: http://projects.spring.io/spring-boot/camel-rest-s
+ ql-demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
